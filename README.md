@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-week-5-individual-simplemath-oo-program
+<br>
+Using Object-Oriented Programming (OOP), design a base class Simplemath and derived Addition, Subtraction, Division, Multiplication classes within. The user should have the option (e.g., switch statement, if statement, if else statement, nested statements) to choose which calculation he or she prefers to use. Once a selection is made, the user should be able to input as many calculations as he or she wishes until done, with all totals given as an output prior to exiting the program. Create an array for the numbers users input to be stored.
